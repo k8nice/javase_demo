@@ -7,5 +7,10 @@ public class Demo {
         int c = a = b;
         System.out.println(c);
         System.out.println(a);
+      //  Demo();
+    }
+
+    public static void Demo(){
+        System.out.println(1);
     }
 }
